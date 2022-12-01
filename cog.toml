@@ -1,0 +1,2 @@
+[commit_types]
+day = { changelog_title = "Advent Calendar" }
